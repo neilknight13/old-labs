@@ -1,0 +1,4 @@
+Normally we aren't supposed to modify main but I was having issues with the getchar()
+in line 54 which was causing some type of infinite loop. Google wasn't too helpful either and I wasn't
+really able to figure out what it does either. Later note, figured out to just hit enter and then
+it returned to the normal command line. Still not sure what getchar() does.
